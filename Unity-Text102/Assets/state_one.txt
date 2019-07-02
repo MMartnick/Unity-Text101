@@ -1,0 +1,7 @@
+As you approach the mansion with Kid and Guile you see a terrace entrance in the garden 
+and a second floor window that could be reached by climbing a fence covered with over grown Ivy.
+
+Which way will you enter?
+
+1. Window
+2. Terrace
