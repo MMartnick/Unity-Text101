@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ca5a0307f30905e45a86ba6f290a9a05, type: 3}
+  m_Script: {fileID: 11500000, guid: 15de74eced87acc4bb6215dd281c63d0, type: 3}
   m_Name: StartingState
   m_EditorClassIdentifier: 
   storyText: "As you approach the mansion with Kid and Guile you see a terrace entrance
