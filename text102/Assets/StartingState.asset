@@ -16,3 +16,6 @@ MonoBehaviour:
     in the garden \r\nand a second floor window that could be reached by climbing
     a fence covered with over grown Ivy.\r\n\r\nWhich way will you enter?\r\n\r\n1.
     Window\r\n2. Terrace"
+  nextStates:
+  - {fileID: 11400000, guid: bfd8d6344f48eaa4aac6f510e6344542, type: 2}
+  - {fileID: 11400000, guid: c5943a7b442a2f740aca268a008fdc4f, type: 2}

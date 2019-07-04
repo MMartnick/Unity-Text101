@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 15de74eced87acc4bb6215dd281c63d0, type: 3}
-  m_Name: room_one
+  m_Name: room_three
   m_EditorClassIdentifier: 
-  storyText: Through the window
+  storyText: Victory!
   nextStates: []

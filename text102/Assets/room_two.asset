@@ -12,4 +12,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15de74eced87acc4bb6215dd281c63d0, type: 3}
   m_Name: room_two
   m_EditorClassIdentifier: 
-  storyText: 
+  storyText: 'Guards appear!
+
+
+    1. Run outside
+
+    2. Fight them!'
+  nextStates:
+  - {fileID: 11400000, guid: c8bef02db6118ad40a8d9286f3f2cf06, type: 2}
+  - {fileID: 11400000, guid: 4aa6b851445e31142bbb0630165494e6, type: 2}
